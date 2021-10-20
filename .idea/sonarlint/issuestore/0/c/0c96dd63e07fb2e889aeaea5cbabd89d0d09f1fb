@@ -1,0 +1,7 @@
+
+CWeb:BoldAndItalicTagsCheck'"Replace this <i> tag by <em>.(¤óÇÉ
+OWeb:ImgWithoutAltCheckª"%Add an "alt" attribute to this image.(ˆÇô°8Ü†âéÀ/
+TWeb:ImgWithoutAltCheck¬"%Add an "alt" attribute to this image.(œç„Üûÿÿÿÿ8Ü†âéÀ/
+DWeb:BoldAndItalicTagsCheck´"Replace this <i> tag by <em>.(¸Ó¯©
+C	php:S2041Š"-Remove the parentheses from this "echo" call.(¿º–¯
+H	php:S2041ª"-Remove the parentheses from this "echo" call.(¨½ÎÃüÿÿÿÿ
